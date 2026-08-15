@@ -57,7 +57,8 @@ To simulate or synthesize this project, you will need:
 5.Click Run Simulation -> Run Behavioral Simulation.
 
 6.In the waveform window, expand the uut scope and drag the internal wires (like PC, Instr, SrcA, SrcB, and ALUResult) into the viewer to verify execution.
-##🔌 FPGA Implementation
+
+## 🔌 FPGA Implementation
 In Vivado, set basys3_connector.v as the Top Module for synthesis.
 
 Click Generate Bitstream.
